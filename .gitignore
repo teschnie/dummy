@@ -1,0 +1,5 @@
+#Gitignore-File
+
+.aux
+.log
+.gz
