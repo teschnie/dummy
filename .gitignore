@@ -1,5 +1,5 @@
 #Gitignore-File
 
-.aux
-.log
-.gz
+*.aux
+*.log
+*.gz
